@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, my name is Batuhan 👋
+I'm Batuhan from Turkey, and I'm a Junior Web Developer at Turkey Tourism Promotion And Development Agency (TGA). Technical Support Specialist. I really enjoy learning new things, do something interesting, so on. You see, I'm a fresh developer.🤡
 
-<!--
-**BatuhanYigit/batuhanyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanyigit&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanyigit" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Follow and Connect with me|
+|-----|
+|<a href="https://www.linkedin.com/in/batuhan-yi%C4%9Fit-726a30201/"><img align="left" alt="Batuhan's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="mailto:batuhanyigit34@gmail.com"><img align="left" alt="Batuhan's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+
+
+- 🔭 I’m currently working on Spring Framework
+- 🌱 I’m currently learning Go Language
+- 💬 Ask me about anything
+- ⚡ Fun fact: Turkey
+
+[![batuhanyigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanyigit)](https://github.com/anuraghazra/github-readme-stats)
+
+
