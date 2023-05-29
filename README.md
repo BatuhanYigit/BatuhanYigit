@@ -6,7 +6,7 @@ I'm Batuhan from Turkey, and I'm a Junior Web Developer at Turkey Tourism Promot
 
 |Follow and Connect with me|
 |-----|
-|<a href="https://www.linkedin.com/in/batuhan-yi%C4%9Fit-726a30201/"><img align="left" alt="Batuhan's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="mailto:batuhanyigit34@gmail.com"><img align="left" alt="Batuhan's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/in/batuhanyigit34/"><img align="left" alt="Batuhan's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="mailto:batuhanyigit34@gmail.com"><img align="left" alt="Batuhan's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
 
 - 🔭 I’m currently working on Spring Framework
