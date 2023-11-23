@@ -1,5 +1,5 @@
 ## Hi there, my name is Batuhan 👋
-I'm Batuhan from Turkey, and I'm a Junior Web Developer at Turkey Tourism Promotion And Development Agency (TGA). Technical Support Specialist. I really enjoy learning new things, do something interesting, so on. You see, I'm a fresh developer.🤡
+I'm Batuhan from Turkey, and I'm a Junior Web Developer at Turkey Tourism Promotion And Development Agency (TGA). Junior Backend Developer. I really enjoy learning new things, do something interesting, so on. You see, I'm a fresh developer.🤡
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanyigit&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanyigit" /> </p>
 
